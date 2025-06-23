@@ -1,7 +1,10 @@
-#!/usr/bin/env python3
+#数据读取有问题，不要用这个脚本读取数据，统计分析可以使用
 """
 HCP重采样数据分析工具
 用于处理和分析重采样到fsaverage4的数据
+数据格式：rfMRI_REST1_LR_Atlas_hp2000_clean.R.3k_fsavg_R.func.gii
+
+
 """
 
 import os
